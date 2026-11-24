@@ -35,26 +35,6 @@
 
 ---
 
-### 📌 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/AditiaTarigan/Toba_Reads_Back-End">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=Toba_Reads_Back-End&theme=tokyonight&hide_border=true" alt="Toba Reads Back-End" />
-  </a>
-  <a href="https://github.com/AditiaTarigan/Toba_Reads_Front-End">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=Toba_Reads_Front-End&theme=tokyonight&hide_border=true" alt="Toba Reads Front-End" />
-  </a>
-  <br />
-  <a href="https://github.com/AditiaTarigan/Sistem_Informasi_Project_Akhir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=Sistem_Informasi_Project_Akhir&theme=tokyonight&hide_border=true" alt="Sistem Informasi Project Akhir" />
-  </a>
-  <a href="https://github.com/AditiaTarigan/CERTAN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=CERTAN&theme=tokyonight&hide_border=true" alt="CERTAN" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Tech Stack &amp; Tools
 
 **Web &amp; Mobile**
