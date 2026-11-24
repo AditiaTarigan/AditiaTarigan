@@ -1,50 +1,70 @@
 <!-- Header Banner (Typing SVG) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditia+Tarigan;Full-Stack+Web+%26+Flutter+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1100&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditia+Tarigan;Full-Stack+Web+%26+Flutter+Developer;AI+%2C+ML+%26+RAG+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Building scalable web backends with <b>Laravel & Go</b>, cross-platform mobile apps with <b>Flutter</b>, and applied ML models in <b>Python</b>.
+  Crafting web platforms with <b>Laravel &amp; Blade</b>, mobile apps with <b>Flutter &amp; Dart</b>, and AI/ML pipelines in <b>Python &amp; Jupyter</b>.
 </p>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="mailto:aditiatarigan333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aditia-tarigan-9ab287372">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/aditiatarigann_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/AditiaTarigan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Toba Reads** (Laravel Back-End & Flutter Mobile App)
-- 🧠 Exploring Deep Learning with **TensorFlow** & **PyTorch**
-- 💬 Ask me about **Laravel, Flutter, Python, or REST APIs**
+
+- 📖 Building **Toba Reads** across [`Toba_Reads_Back-End`](https://github.com/AditiaTarigan/Toba_Reads_Back-End) (Laravel) &amp; [`Toba_Reads_Front-End`](https://github.com/AditiaTarigan/Toba_Reads_Front-End) (Flutter Mobile App)
+- 🧪 Experimenting with AI, ML &amp; notebooks in [`CERTAN`](https://github.com/AditiaTarigan/CERTAN) and **LLM + RAG** workflows
+- 🏗️ Developing web information systems such as [`Sistem_Informasi_Project_Akhir`](https://github.com/AditiaTarigan/Sistem_Informasi_Project_Akhir)
+- 💬 Open to collaborations on **Laravel, Flutter, REST APIs, and Applied AI/ML**
 - 📫 Reach me at **aditiatarigan333@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📌 Featured Repositories
 
-**Frontend & Mobile**
+<div align="center">
+  <a href="https://github.com/AditiaTarigan/Toba_Reads_Back-End">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=Toba_Reads_Back-End&theme=tokyonight&hide_border=true" alt="Toba Reads Back-End" />
+  </a>
+  <a href="https://github.com/AditiaTarigan/Toba_Reads_Front-End">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=Toba_Reads_Front-End&theme=tokyonight&hide_border=true" alt="Toba Reads Front-End" />
+  </a>
+  <br />
+  <a href="https://github.com/AditiaTarigan/Sistem_Informasi_Project_Akhir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=Sistem_Informasi_Project_Akhir&theme=tokyonight&hide_border=true" alt="Sistem Informasi Project Akhir" />
+  </a>
+  <a href="https://github.com/AditiaTarigan/CERTAN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiaTarigan&repo=CERTAN&theme=tokyonight&hide_border=true" alt="CERTAN" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Tech Stack &amp; Tools
+
+**Web &amp; Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,html,css,js" alt="Web and Mobile Stack" />
 </p>
 
-**Backend & Database**
+**Data, AI / ML &amp; Workflow**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,go,java,c,mysql,postgres,firebase" />
-</p>
-
-**AI / ML & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,postman,vscode" alt="Data, AI/ML and Workflow Stack" />
 </p>
 
 ---
@@ -52,10 +72,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AditiaTarigan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaTarigan&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AditiaTarigan&show_icons=true&theme=tokyonight&hide_border=true" alt="AditiaTarigan GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaTarigan&layout=compact&theme=tokyonight&hide_border=true" alt="AditiaTarigan Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AditiaTarigan&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AditiaTarigan&theme=tokyonight&hide_border=true" alt="AditiaTarigan Contribution Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiaTarigan&theme=tokyo-night&hide_border=true" alt="AditiaTarigan Activity Graph" />
 </div>
