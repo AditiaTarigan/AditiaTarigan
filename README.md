@@ -1,21 +1,3 @@
-# Panduan Membuat Tampilan GitHub Lebih Menarik (`AditiaTarigan`)
-
-Tampilan GitHub saat ini sudah punya modal bagus (sudah ada `README.md` profil dan 5 repository yang di-pin). Supaya terlihat **lebih profesional, terstruktur, dan menarik di mata recruiter maupun developer lain**, ikuti langkah-langkah berikut:
-
----
-
-## 1. Upgrade `README.md` di Repo `AditiaTarigan/AditiaTarigan`
-
-Buka repository **`AditiaTarigan/AditiaTarigan`**, klik ikon pensil (Edit) pada file `README.md`, lalu ganti isinya dengan struktur yang lebih rapi seperti di bawah ini:
-
-1. **Tambahkan Header Banner / Typing SVG** agar bagian atas langsung mencuri perhatian.
-2. **Gunakan Social Badges** (`shields.io`) untuk Email, LinkedIn, dan Instagram agar terlihat seragam.
-3. **Kelompokkan Tech Stack** per kategori (Frontend & Mobile, Backend & Database, AI/ML & DevOps) daripada menumpuk 20+ ikon dalam satu baris.
-4. **Tambahkan GitHub Stats & Top Languages Card** (`github-readme-stats` & `streak-stats`).
-
-### Template `README.md` Siap Pakai (Copy-Paste)
-
-```markdown
 <!-- Header Banner (Typing SVG) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditia+Tarigan;Full-Stack+Web+%26+Flutter+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
@@ -77,22 +59,3 @@ Buka repository **`AditiaTarigan/AditiaTarigan`**, klik ikon pensil (Edit) pada 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AditiaTarigan&theme=github-dark-blue&hide_border=true" />
 </div>
-```
-
----
-
-## 2. Lengkapi Bio di Sidebar Kiri
-
-Klik tombol **Edit profile** di bawah foto profilmu, lalu isi kolom **Bio** dengan deskripsi singkat (maksimal 2 baris) agar orang langsung tahu keahlian utamamu tanpa harus membaca ke bawah:
-> `Full-Stack Web (Laravel) & Mobile (Flutter) Developer • AI/ML Enthusiast`
-
----
-
-## 3. Rapikan Deskripsi & Topics di Pinned Repositories
-
-Pada tampilan saat ini, beberapa repository seperti `Sistem_Informasi_Project_Akhir` dan `CERTAN` belum punya deskripsi singkat.
-1. Buka masing-masing repository yang di-pin (`Sistem_Informasi_Project_Akhir`, `Toba_Reads_Back-End`, `Toba_Reads_Front-End`, `CERTAN`).
-2. Klik ikon **Gear (⚙️)** di bagian **About** (kanan atas halaman repo).
-3. Isi **Description** dengan 1 kalimat jelas tentang fungsi project tersebut.
-4. Tambahkan **Topics** (misalnya: `laravel`, `flutter`, `machine-learning`, `rest-api`).
-5. Di halaman profil, klik **Customize your pins** dan pilih 4 atau 6 repo terbaik agar grid-nya simetris (tidak ada 1 kartu menggantung sendirian di baris bawah).
