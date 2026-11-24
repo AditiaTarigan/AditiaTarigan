@@ -52,14 +52,5 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AditiaTarigan&show_icons=true&theme=tokyonight&hide_border=true" alt="AditiaTarigan GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiaTarigan&layout=compact&theme=tokyonight&hide_border=true" alt="AditiaTarigan Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AditiaTarigan&theme=tokyonight&hide_border=true" alt="AditiaTarigan Contribution Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiaTarigan&theme=tokyo-night&hide_border=true" alt="AditiaTarigan Activity Graph" />
 </div>
